@@ -10323,8 +10323,8 @@ msgid ""
 " 1.2, or to reduce by 20 percent, use a value of 0.8. Minimum 0.1, "
 "maximum 10."
 msgstr ""
-"SQL テキストボックスやエディタで使うフォントサイズ。「em」単位で指定し、1 がデフォルトの相対的なフォントサイズです。例えば、20% "
-"大きくしたい場合には 1.2 を指定、20% 小さくしたい場合には 0.8 を指定します。最小は 0.1、最大は 10 です"
+"SQL テキストボックスやエディタで使うフォントサイズ。「em」単位で指定し、1 がデフォルトの相対的なフォントサイズです。例えば、20％ "
+"大きくしたい場合には 1.2 を指定、20％ 小さくしたい場合には 0.8 を指定します。最小は 0.1、最大は 10 です"
 
 #: pgadmin/tools/sqleditor/utils/query_tool_preferences.py:94
 msgid "Tab size"
@@ -10800,9 +10800,6 @@ msgstr "指定されたデータベースが見つかりませんでした"
 #~ msgid "{0} Binary Path"
 #~ msgstr "{0}バイナリパス"
 
-#~ msgid ""
-#~ msgstr ""
-
 #~ msgid "Couldnot find the database on the server."
 #~ msgstr "サーバにデータベースが見つかりませんでした"
 
@@ -11036,9 +11033,6 @@ msgstr "指定されたデータベースが見つかりませんでした"
 
 #~ msgid "-- Incomplete definition"
 #~ msgstr "-- 不完全な定義"
-
-#~ msgid "Move objects to another tablespace"
-#~ msgstr "オブジェクトを他のテーブルスペースに移動"
 
 #~ msgid "Are you sure you wish to move objects "
 #~ msgstr "オブジェクトを本当に移動しますか？"
